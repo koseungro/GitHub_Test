@@ -5,6 +5,7 @@ using UnityEngine;
 public class GitTest : MonoBehaviour
 {
     private Vector3 vec;
+private Transform tr;
     // Start is called before the first frame update
     void Start()
     {
