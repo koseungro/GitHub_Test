@@ -9,6 +9,8 @@ public class GitTest : MonoBehaviour
 
     // branch
     private string str = "Test branch";
+    public string branch = "branch";
+
     // Start is called before the first frame update
     void Start()
     {
